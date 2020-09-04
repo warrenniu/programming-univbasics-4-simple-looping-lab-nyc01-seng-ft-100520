@@ -24,5 +24,6 @@ i = 0
 end
 
 def return_string_array (array)
+i = 0
 
   return array
