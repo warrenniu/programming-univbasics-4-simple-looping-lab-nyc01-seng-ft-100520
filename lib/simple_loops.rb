@@ -7,4 +7,4 @@ i = 0
   end
 end
 
-def loop_message_n_times (message, number)
+def loop_message_n_times (message, integer)
