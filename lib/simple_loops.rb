@@ -7,4 +7,10 @@ i = 0
   end
 end
 
-def loop_message_n_times (message, integer)
+def loop_message_n_times (message, number)
+i = 0
+  while i < number do
+    puts message
+    i += 1
+  end
+end
