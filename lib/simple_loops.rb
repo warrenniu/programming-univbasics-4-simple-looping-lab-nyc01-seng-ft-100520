@@ -25,5 +25,5 @@ end
 
 def return_string_array (array)
 i = 0
-
-  return array
+  while i <= array.length do
+  return array.to_s
